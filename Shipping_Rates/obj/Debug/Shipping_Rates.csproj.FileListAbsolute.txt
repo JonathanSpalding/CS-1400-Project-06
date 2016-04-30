@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\bin\Debug\Shipping_Rates.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\bin\Debug\Shipping_Rates.exe
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\bin\Debug\Shipping_Rates.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\obj\Debug\Shipping_Rates.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\obj\Debug\Shipping_Rates.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\obj\Debug\Shipping_Rates.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\obj\Debug\Shipping_Rates.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\obj\Debug\Shipping_Rates.exe
+c:\users\jon\documents\visual studio 2015\Projects\Shipping_Rates\Shipping_Rates\obj\Debug\Shipping_Rates.pdb
